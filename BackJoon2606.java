@@ -33,7 +33,7 @@ public class BackJoon2606 {
             int n1 = Integer.parseInt(st.nextToken());
             int n2 = Integer.parseInt(st.nextToken());
             A[n1].add(n2);
-            A[n2].add(n1);
+//            A[n2].add(n1);
         }
         dfs(1);
         System.out.println(ans);

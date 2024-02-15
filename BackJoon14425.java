@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
+// 못품
 public class BackJoon14425 {
 
     static int answer = 0;
